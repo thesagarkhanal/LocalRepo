@@ -21,3 +21,6 @@ THis is new line
 
 
 lets create a conflict in branch2 and then try to merge
+
+
+push from branch2 to main
