@@ -15,3 +15,6 @@ This is another commit
 # Wait and Watch
 
 THis is new line
+
+# Checking merge conflicts
+<br>
