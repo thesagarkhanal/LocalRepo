@@ -15,3 +15,6 @@ This is another commit
 # Wait and Watch
 
 THis is new line
+
+
+lets create a conflit in branch2 and then try to merge
