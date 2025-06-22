@@ -18,3 +18,6 @@ THis is new line
 
 # Checking merge conflicts
 <br>
+
+
+lets create a conflict in branch2 and then try to merge
