@@ -5,3 +5,8 @@ This is a new branch.
 # more changes
 Adding a line to the branch2 and then merging it into the origin main.
 <br>
+
+This is commit 1
+<br>
+
+This is another commit
