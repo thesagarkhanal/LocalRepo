@@ -17,4 +17,4 @@ This is another commit
 THis is new line
 
 
-lets create a conflit in branch2 and then try to merge
+lets create a conflict in branch2 and then try to merge
