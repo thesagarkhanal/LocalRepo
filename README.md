@@ -23,9 +23,15 @@ THis is new line
 lets create a conflict in branch2 and then try to merge
 
 
+
 added a line here
+
+added in line 
+
 push from branch2 to main
 
 added something here for rebase
 
 # this is for rebase
+
+added another in branch1
